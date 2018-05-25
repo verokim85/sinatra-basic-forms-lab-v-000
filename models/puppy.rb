@@ -8,8 +8,5 @@ class Puppy
     @age = age
   end
 
-  def jump(name)
-    puts "#{name} jumped!"
-  end
-
+  
 end
