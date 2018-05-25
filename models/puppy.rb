@@ -8,4 +8,8 @@ class Puppy
     @age = age 
   end
 
+  def jump
+    puts "jump"
+  end
+
 end
